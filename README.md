@@ -23,3 +23,8 @@ module.exports = {
 };
 
 ```
+
+Running Cypress
+``` bash
+npx cypress open
+```
