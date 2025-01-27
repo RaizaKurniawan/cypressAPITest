@@ -20,6 +20,6 @@ Create cypress.env.js file
 module.exports = {
     "email": "youremail@email.com",
     "password": "yourPassword"
-}
+};
 
 ```
